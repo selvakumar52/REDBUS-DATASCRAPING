@@ -1,4 +1,4 @@
-# REDBUS-DATASCRAPING
+# REDBUS DATASCRAPING
 PYTHON
 my project is redbus data scraping use the selenium 
 collect the data in redbus website 
